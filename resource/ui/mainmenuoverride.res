@@ -1,4 +1,4 @@
-"Resource/UI/MainMenuOverride.res"
+"Resource/UI/MainMenunuOverride.res"
 {
 	"MainMenuOverride"
 	{
@@ -434,10 +434,10 @@
 			"DepressedFGColor_Override"				"Menu_Accent"
 		}
 	}
-	"Contracker"
+	"Hurt"
 	{
 		"ControlName"								"EditablePanel"
-		"FieldName"									"Contracker"
+		"FieldName"									"Hurt"
 		"XPos"										"0"
 		"YPos"										"0"
 		"ZPos"										"15"

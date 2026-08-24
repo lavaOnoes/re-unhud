@@ -2,7 +2,7 @@
 {
 	"LightHUD"
 	{
-		"label"									"nuHUD-re"
+		"label"									"re-unHUD"
 		"command"								"engine con_enable 1; toggleconsole; echo LightHUD by Hypnotize"
 	}
 	"Servers"
@@ -31,10 +31,10 @@
 		"label"									"adv.options"
 		"command"								"opentf2options"
 	}
-	"Contracker"
+	"Hurt"
 	{
-		"label"									"contracker"
-		"command"								"questlog"
+		"label"									"hurt overlay toggle"
+		"command"								"engine toggle cl_hud_minmode"
 	}
 	"Vote"
 	{
