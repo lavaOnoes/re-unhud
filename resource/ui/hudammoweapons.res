@@ -4,8 +4,8 @@
 	{
 		"ControlName"								"Panel"
 		"fieldName"									"AmmoAnchor"
-		"xpos"										"r260"
-		"ypos"										"c94"
+		"xpos"										"r160"
+		"ypos"										"c146"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"40"
